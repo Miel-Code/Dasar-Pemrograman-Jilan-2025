@@ -1,7 +1,8 @@
 a = 5
 b = 5
-c = a + b
-print(c)
+
+pembagian = a/b
+print(pembagian)
 
 perkalian = a*b
 print(perkalian)
